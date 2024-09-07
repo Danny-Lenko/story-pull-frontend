@@ -1,6 +1,6 @@
 # CMS Frontend
 
-This repository contains the frontend applications for our Content Management System (CMS) project.
+This repository contains the frontend applications for the StoryPull (CMS) project.
 
 ## Project Structure
 
